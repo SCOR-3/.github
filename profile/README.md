@@ -8,6 +8,9 @@
 
 </div>
 
+## [Video Explaining the working of Project](https://drive.google.com/file/d/1Z276l8y5PBLfpqDH4shW6SuKbKsjGm9P/view?usp=sharing)
+## [Presentation briefly showcasing each Phase](https://drive.google.com/file/d/1OeN9PZ4AEC6BgVvAnZ3UvnPuPVGWtW_g/view?usp=sharing)
+
 ## Projects
 ### Amazon.CO2 - Client
 - This project serves as the frontend of Amazon.CO2, it consists of various frontend components, UI/UX elements, creative additions to user interactions and integration with state management tools

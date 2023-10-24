@@ -8,10 +8,8 @@
 
 </div>
 
-## Video
-[](https://drive.google.com/file/d/1Z276l8y5PBLfpqDH4shW6SuKbKsjGm9P/view?usp=sharing)
-## Presentation 
-[](https://drive.google.com/file/d/1OeN9PZ4AEC6BgVvAnZ3UvnPuPVGWtW_g/view?usp=sharing)
+## [Video](https://drive.google.com/file/d/1Z276l8y5PBLfpqDH4shW6SuKbKsjGm9P/view?usp=sharing)
+## [Presentation](https://drive.google.com/file/d/1OeN9PZ4AEC6BgVvAnZ3UvnPuPVGWtW_g/view?usp=sharing)
 
 ## Projects
 ### Amazon.CO2 - Client

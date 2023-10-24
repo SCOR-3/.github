@@ -14,17 +14,19 @@
 ## Projects
 ### Amazon.CO2 - Client
 - This project serves as the frontend of Amazon.CO2, it consists of various frontend components, UI/UX elements, creative additions to user interactions and integration with state management tools
-- [Amazon.CO2 Client](https://github.com/SCOR-3/Amazon.CO2-Client)
+- Deployed: [https://heroic-valkyrie-d7ef27.netlify.app/](https://heroic-valkyrie-d7ef27.netlify.app/)
+- Repository: [Amazon.CO2 Client](https://github.com/SCOR-3/Amazon.CO2-Client)
 - Tech: React, Redux, React-Router
 
 ### Amazon.CO2 - Server
 - This project serves as a slim backend designed to work with Amazon.CO2 Client, it implements a backend for a client server architecture focusing on scalablity
-- [Amazon.CO2 Server](https://github.com/SCOR-3/Amazon.CO2-Server)
+- Repository: [Amazon.CO2 Server](https://github.com/SCOR-3/Amazon.CO2-Server)
 - Tech: Nodejs, Express, MongoDB
 
 ### Amazon.CO2 - Data Visualization
 - This project serves as the carbon rating and footprint calculation part along with supply chain analysis dashboard
-- [Amazon.CO2 Data Visualization](https://github.com/SCOR-3/Amazon.CO2-DataVisualisation)
+- Deployed: [https://amazon-co2-supply-dashboard.streamlit.app/](https://amazon-co2-supply-dashboard.streamlit.app/)
+- Repository: [Amazon.CO2 Data Visualization](https://github.com/SCOR-3/Amazon.CO2-DataVisualisation)
 - Tech: Python, Streamlit, Plotly, Pandas, Numpy
   
 ## Contributors
